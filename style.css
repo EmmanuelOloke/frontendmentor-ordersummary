@@ -1,3 +1,11 @@
+/* html {
+    background: url(./images/pattern-background-desktop.svg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} */
+
 .tinted-bg {
     position: relative;
     background: linear-gradient(hsl(225, 100%, 94%), hsl(225, 100%, 94%)), url("./images/pattern-background-desktop.svg");
@@ -5,12 +13,16 @@
     background-repeat: no-repeat;
 }
 
-.tinted-image {
+.tinted-img {
     background: /* top, transparent red */
     linear-gradient( rgba(202, 225, 253, 0.45), rgba(185, 214, 250, 0.45)), /* bottom, image */
-    url(./images/pattern-background-desktop.svg);
-    background-repeat: no-repeat;
-    display: flex;
+    url(./images/pattern-background-desktop.svg) no-repeat center center fixed;
+    /* background-size: cover;
+    height: 100%;
+    width: 100%; */
+    /* overflow: hidden; */
+    /* background-repeat: no-repeat; */
+    /* display: flex; */
 }
 
 .card {
