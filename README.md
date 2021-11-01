@@ -48,5 +48,6 @@ This is the first of many challenges to come, definitely excited for the future.
 
 ## Author
 
+- Emmanuel Oloke.
 - Frontend Mentor - [https://www.frontendmentor.io/profile/EmmanuelOloke]
 - Twitter - [@I_am_Pope]
