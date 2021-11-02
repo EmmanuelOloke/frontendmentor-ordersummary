@@ -17,7 +17,7 @@ This is the first of many challenges to come, definitely excited for the future.
 
 ## Links
 
-- Solution:
+- Solution: [https://frontendmentor.io/solutions/order-summary-component-solution-yR1D81TWi]
 - Live Site URL: [https://emmanueloloke.github.io/frontendmentor-ordersummary/]
 
 ## My Process
