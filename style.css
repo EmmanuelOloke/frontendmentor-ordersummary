@@ -29,7 +29,7 @@ body {
     text-align: center;
 }
 
-.card-title {
+h1 {
     text-align: center;
     color: hsl(223, 47%, 23%);
     font-size: 30px;
